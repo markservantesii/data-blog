@@ -1,1 +1,1 @@
-Sitemap: https://markservantesii.github.io/data-blog/sitemap.xml
+Sitemap: https://blog.marksolutions.cloud/data-blog/sitemap.xml
